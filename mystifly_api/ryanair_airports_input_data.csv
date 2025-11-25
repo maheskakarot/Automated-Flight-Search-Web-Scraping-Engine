@@ -1,0 +1,245 @@
+Country Name,Airport Name,Airport Code,Mapping Code
+Austria,Klagenfurt,KLU,KLU
+Austria,Salzburg,SZG,SZG
+Austria,Vienna,VIE,VIE
+Belgium,Brussels (All Airports),BRL,BRL
+Bosnia & Herzegovina,Banja Luka,BNX,BNX
+Belgium,Brussels,BRU,BRL
+Belgium,Brussels Charleroi,CRL,BRL
+Bulgaria,Burgas,BOJ,BOJ
+Bulgaria,Plovdiv,PDV,PDV
+Bulgaria,Sofia,SOF,SOF
+Bulgaria,Varna,VAR,VAR
+Croatia,Dubrovnik,DBV,DBV
+Croatia,Pula,PUY,PUY
+Cyprus,Larnaca,LCA,LCA
+Cyprus,Paphos,PFO,PFO
+Croatia,Rijeka,RJK,RJK
+Croatia,Split,SPU,SPU
+Czech Republic,Brno,BRQ,BRQ
+Czech Republic,Ostrava,OSR,OSR
+Czech Republic,Pardubice,PED,PED
+Czech Republic,Prague,PRG,PRG
+Denmark,Aalborg,AAL,AAL
+Estonia,Tallinn,TLL,TLL
+Denmark,Aarhus,AAR,AAR
+Denmark,Billund,BLL,BLL
+Denmark,Copenhagen,CPH,CPH
+Finland,Helsinki,HEL,HEL
+Finland,Lapland Rovaniemi,RVN,RVN
+Finland,Lappeenranta,LPP,LPP
+Finland,Tampere,TMP,TMP
+Croatia,Zadar,ZAD,ZAD
+Croatia,Zagreb,ZAG,ZAG
+France,Bergerac,EGC,EGC
+France,Beziers,BZR,BZR
+France,Biarritz,BIQ,BIQ
+France,Bordeaux,BOD,BOD
+France,Brive,BVE,BVE
+France,Carcassonne,CCF,CCF
+France,Clermont,CFE,CFE
+France,Dole,DLE,DLE
+France,Figari,FSC,FSC
+France,Grenoble,GNB,GNB
+France,La Rochelle,LRH,LRH
+France,Lille,LIL,LIL
+Germany,Berlin Brandenburg,BER,BER
+Germany,Bremen,BRE,BRE
+Germany,Cologne,CGN,CGN
+Germany,Dortmund,DTM,DTM
+Germany,Dresden,DRS,DRS
+Germany,Dusseldorf Weeze,NRN,NRN
+Germany,Frankfurt Hahn,HHN,HHN
+Germany,Hamburg,HAM,HAM
+Germany,Karlsruhe / Baden-Baden,FKB,FKB
+Germany,Memmingen,FMM,FMM
+Germany,Münster,FMO,FMO
+Germany,Nuremberg,NUE,NUE
+France,Limoges,LIG,LIG
+France,Lourdes,LDE,LDE
+Greece,Athens,ATH,ATH
+Hungary,Budapest,BUD,BUD
+Greece,Chania,CHQ,CHQ
+Greece,Corfu,CFU,CFU
+Greece,Heraklion Crete,HER,HER
+Greece,Kalamata,KLX,KLX
+Ireland,Cork,ORK,ORK
+Israel,Tel Aviv,TLV,TLV
+Ireland,Dublin,DUB,DUB
+Ireland,Kerry,KIR,KIR
+Ireland,Knock,NOC,NOC
+Ireland,Shannon,SNN,SNN
+Greece,Kefalonia,EFL,EFL
+Greece,Kos,KGS,KGS
+Greece,Mykonos,JMK,JMK
+Greece,Preveza - Aktion,PVK,PVK
+Greece,Rhodes,RHO,RHO
+Greece,Santorini,JTR,JTR
+Greece,Skiathos,JSI,JSI
+Greece,Thessaloniki,SKG,SKG
+Greece,Zakynthos,ZTH,ZTH
+France,Marseille,MRS,MRS
+France,Nantes,NTE,NTE
+France,Nice,NCE,NCE
+France,Nimes,FNI,FNI
+France,Paris (All Airports),PAR,PAR
+France,Paris Beauvais,BVA,PAR
+France,Paris Vatry,XCR,PAR
+France,Perpignan,PGF,PGF
+France,Poitiers,PIS,PIS
+France,Rodez,RDZ,RDZ
+France,Toulouse,TLS,TLS
+France,Tours Loire Valley,TUF,TUF
+Italy,Alghero,AHO,AHO
+Italy,Ancona,AOI,AOI
+Italy,Bari,BRI,BRI
+Jordan,Amman (All Airports),JOR,JOR
+Latvia,Riga,RIX,RIX
+Jordan,Amman Jordan,AMM,JOR
+Jordan,Aqaba Jordan,AQJ,JOR
+Lithuania,Kaunas,KUN,KUN
+Luxembourg,Luxembourg,LUX,LUX
+Malta,Malta,MLA,MLA
+Montenegro,Podgorica,TGD,TGD
+Lithuania,Palanga,PLQ,PLQ
+Lithuania,Vilnius,VNO,VNO
+Italy,Bologna,BLQ,BLQ
+Italy,Brindisi,BDS,BDS
+Italy,Cagliari,CAG,CAG
+Italy,Catania,CTA,CTA
+Italy,Comiso,CIY,CIY
+Italy,Crotone,CRV,CRV
+Italy,Cuneo,CUF,CUF
+Morocco,Agadir,AGA,AGA
+Morocco,Essaouira,ESU,ESU
+Morocco,Fez,FEZ,FEZ
+Netherlands,Amsterdam,AMS,AMS
+Netherlands,Eindhoven,EIN,EIN
+Netherlands,Maastricht,MST,MST
+Morocco,Marrakesh,RAK,RAK
+Norway,Haugesund,HAU,HAU
+Norway,Oslo (All Airports),OSO,OSO
+Norway,Oslo,OSL,OSO
+Norway,Oslo Torp,TRF,OSO
+Morocco,Nador,NDR,NDR
+Morocco,Ouarzazate,OZZ,OZZ
+Morocco,Oujda,OUD,OUD
+Morocco,Rabat,RBA,RBA
+Morocco,Tangier,TNG,TNG
+Morocco,Tétouan,TTU,TTU
+Italy,Genoa,GOA,GOA
+Italy,Lamezia,SUF,SUF
+Poland,Bydgoszcz,BZG,BZG
+Poland,Gdansk,GDN,GDN
+Poland,Katowice,KTW,KTW
+Poland,Krakow,KRK,KRK
+Poland,Lodz,LCJ,LCJ
+Poland,Lublin,LUZ,LUZ
+Portugal,Faro,FAO,FAO
+Portugal,Lisbon,LIS,LIS
+Portugal,Madeira Funchal,FNC,FNC
+Portugal,Ponta Delgada,PDL,PDL
+Portugal,Porto,OPO,OPO
+Portugal,Terceira Lajes,TER,TER
+Romania,Bucharest,OTP,OTP
+Serbia,Nis,INI,INI
+Romania,Cluj,CLJ,CLJ
+Slovakia,Bratislava,BTS,BTS
+Slovakia,Kosice,KSC,KSC
+Romania,Oradea,OMR,OMR
+Romania,Sibiu,SBZ,SBZ
+Romania,Suceava,SCV,SCV
+Romania,Timisoara,TSR,TSR
+Poland,Olsztyn - Mazury,SZY,SZY
+Poland,Poznan,POZ,POZ
+Poland,Rzeszow,RZE,RZE
+Poland,Szczecin,SZZ,SZZ
+Poland,Warsaw Modlin,WMI,WWA
+Poland,Wroclaw,WRO,WRO
+Italy,Milan (All Airports),MIL,MIL
+Italy,Milan Bergamo,BGY,MIL
+Italy,Milan Malpensa,MXP,MIL
+Italy,Naples,NAP,NAP
+Italy,Palermo,PMO,PMO
+Italy,Parma,PMF,PMF
+Italy,Perugia,PEG,PEG
+Italy,Pescara,PSR,PSR
+Italy,Pisa,PSA,PSA
+Italy,Rimini,RMI,RMI
+Italy,Rome (All Airports),ROM,ROM
+Italy,Rome Ciampino,CIA,ROM
+Italy,Rome Fiumicino,FCO,ROM
+Italy,Trapani,TPS,TPS
+Italy,Trieste,TRS,TRS
+Italy,Turin,TRN,TRN
+Italy,Venice (All Airports),VEN,VEN
+Italy,Venice M.Polo,VCE,VEN
+Spain,Alicante,ALC,ALC
+Spain,Almeria,LEI,LEI
+Spain,Barcelona (All Airports),BAR,BAR
+Spain,Barcelona,BCN,BAR
+Spain,Barcelona Girona,GRO,BAR
+Spain,Barcelona Reus,REU,BAR
+Spain,Valencia (All Airports),VNC,VNC
+Spain,Castellon (Valencia),CDT,VNC
+Spain,Fuerteventura,FUE,FUE
+Spain,Gran Canaria,LPA,LPA
+Sweden,Göteborg Landvetter,GOT,GOT
+Switzerland,Basel,BSL,BSL
+Sweden,Lulea,LLA,LLA
+Turkey,Bodrum,BJV,BJV
+Turkey,Dalaman,DLM,DLM
+Sweden,Malmo,MMX,MMX
+Sweden,Orebro,ORB,ORB
+Sweden,Skelleftea,SFT,SFT
+Sweden,Stockholm (All Airports),SLM,SLM
+Sweden,Stockholm Arlanda,ARN,SLM
+Sweden,Stockholm Västerås,VST,SLM
+Sweden,Växjö Småland,VXO,VXO
+Sweden,Visby Gotland,VBY,VBY
+Spain,Ibiza,IBZ,IBZ
+Spain,Jerez,XRY,XRY
+Spain,La Palma,SPC,SPC
+Spain,Lanzarote,ACE,ACE
+Spain,Madrid,MAD,MAD
+Spain,Malaga,AGP,AGP
+Spain,Menorca,MAH,MAH
+Spain,Murcia International,RMU,RMU
+Spain,Palma de Mallorca,PMI,PMI
+Spain,Santander,SDR,SDR
+Spain,Santiago,SCQ,SCQ
+Spain,Seville,SVQ,SVQ
+United Kingdom,Aberdeen,ABZ,ABZ
+United Kingdom,Birmingham,BHX,BHX
+United Kingdom,Bournemouth,BOH,BOH
+United Kingdom,Bristol,BRS,BRS
+United Kingdom,Cardiff,CWL,CWL
+United Kingdom,Derry,LDY,LDY
+United Kingdom,East Midlands,EMA,EMA
+United Kingdom,Edinburgh,EDI,EDI
+United Kingdom,Exeter,EXT,EXT
+United Kingdom,Glasgow (All Airports),GLW,GLW
+United Kingdom,Glasgow,GLA,GLW
+United Kingdom,Glasgow Prestwick,PIK,GLW
+United Kingdom,Leeds Bradford,LBA,LBA
+United Kingdom,Liverpool,LPL,LPL
+United Kingdom,London (All Airports),LON,LON
+United Kingdom,London Gatwick,LGW,LON
+United Kingdom,London Luton,LTN,LON
+United Kingdom,London Stansted,STN,LON
+United Kingdom,Manchester,MAN,MAN
+United Kingdom,Newcastle,NCL,NCL
+United Kingdom,Newquay Cornwall,NQY,NQY
+United Kingdom,Teesside,MME,MME
+Spain,Tenerife (All Airports),TEN,TEN
+Spain,Tenerife North,TFN,TEN
+Spain,Tenerife South,TFS,TEN
+Spain,Valencia,VLC,VNC
+Spain,Valladolid,VLL,VLL
+Spain,Vigo,VGO,VGO
+Spain,Vitoria (Basque Country),VIT,VIT
+Spain,Zaragoza,ZAZ,ZAZ
+Italy,Venice Treviso,TSF,VEN
+Italy,Verona,VRN,VRN
+Warsaw,Warsaw (All Airports),WWA,WWA
+Warsaw,Warsaw Chopin,WAW,WWA

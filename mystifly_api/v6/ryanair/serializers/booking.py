@@ -1,0 +1,27 @@
+from rest_framework import serializers
+
+
+class BookingSerializer(serializers.Serializer):
+    BillingEntity = serializers.CharField()
+    ClientConfig = serializers.CharField()
+    MysCardConfig = serializers.CharField()
+    MysRedisConfig = serializers.CharField()
+    MysAzureConfig = serializers.CharField()
+    SupplierRefNo = serializers.CharField(allow_blank=True, allow_null=True)
+    ListPassengers = serializers.JSONField()
+    ListFlightSegments = serializers.JSONField()
+    ListBookFlightFare = serializers.JSONField()
+    TotalFare = serializers.FloatField()
+    ToleranceAmount = serializers.FloatField()
+    SupplierCode = serializers.CharField()
+    SearchIdentifier = serializers.CharField()
+    IsLCCBlockItin = serializers.BooleanField()
+    GSTInfo = serializers.JSONField()
+    AccountId = serializers.IntegerField()
+    BookRef = serializers.IntegerField()
+    AirTripType = serializers.IntegerField()
+    Remarks = serializers.JSONField()
+    IsReissueType = serializers.BooleanField()
+    BaseCurrency = serializers.CharField()
+    IsPrepay = serializers.BooleanField()
+    IsClientConfigActive = serializers.BooleanField()

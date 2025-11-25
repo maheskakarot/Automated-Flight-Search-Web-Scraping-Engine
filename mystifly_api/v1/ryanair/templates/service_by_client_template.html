@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Client Servicing Email</title>
+</head>
+<body>
+    <p>
+    Thank you for booking with us!
+    Congratulations! Your booking is successful. Kindly find the below information to allow access to your booking with the Ryanair website.<br>
+    &nbsp;<br>
+    Your Booking Reference: {{ pnr }}<br>
+    Email address: {{ email_id }}<br>
+    &nbsp;<br>
+    Take some time to review the booking details to ensure that we have got all right for your journey.<br>
+    &nbsp;<br>
+    Let me assist you to access your booking :<br>
+    </p>
+
+    <p>
+        Step 1. Open the Ryanair webpage - <a href="https://www.ryanair.com/gb/en" target="_blank">Ryanair Homepage</a>
+    </p>
+    {% for step in steps %}
+        <p>Step {{ loop.index + 1 }}: {{ step.description }}</p>
+        <img src="{{ step.image_url }}" alt="Step {{ loop.index + 1 }} Image"  style="width: 40%;">
+    {% endfor %}
+    &nbsp;<br>
+    <p>
+        Step 6. Key in the Activation code and click Continue.<br>
+        You shall now land to the My Booking page with your Ryanair login. All your post Booking needs can be actioned here.<br>
+        &nbsp;<br>
+        Online check-in is mandatory for Ryanair. Additionally, they have introduced an online verification process that travelers must complete to check-in online.<br>
+        &nbsp;<br>
+        Further information is available on the Ryanair website - <a href="https://help.ryanair.com/hc/en-gb/sections/12489286139281-Online-Verification" target="_blank">Online verification - Ryanair Help Center</a>
+    </p>
+</body>
+</html>
